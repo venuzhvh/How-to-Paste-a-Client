@@ -8,7 +8,7 @@ This guide will be splitted on to parts, First part is the client src setup and 
 In This First Part ill show u guys how to setup and entire Client Src in the correct way to start Skidding or Actually Coding a client.
 
 U will need in order to start this:
-1.- Java JDK 11 (https://adoptium.net/es/temurin/releases) //Choose ur SO, Arch, JDK and Version 11.
+1.- Java JDK 11 (https://adoptium.net/es/temurin/releases) //Choose ur SO, Arch, JDK and Version 8.
 2.- Intellij Idea (https://www.jetbrains.com/idea/download/#section=windows).
 3.- A Client to Work with, u can find p much anyone on ghub just make sure it works and is not broken (used in the tutorial https://github.com/The-Gopro336-Archive/OyVey_Rewrite-BUILDABLE_SRC)
 4.- Internet ofc
